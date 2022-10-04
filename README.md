@@ -1,5 +1,4 @@
 Source UE4 Project for InTomb
-(we called the repo TenSecondGhost when we created it)
 
 This was made in 72 hours for Ludum Dare 51 Jam!
 Play it here: https://ldjam.com/events/ludum-dare/51/intomb
