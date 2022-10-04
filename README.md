@@ -20,5 +20,6 @@ Ronn LeFeuvre ( Ronn Fever / https://twitter.com/RonnFever )
 -------------------------------------------------------------------------
 Notes:
 
-There's probably a mix of good and bad blueprint practices in here. I think it's mostly good (2 of us work in Unreal professionally), but as the jam approaches its deadline standards decline!
+There's probably a mix of good and bad blueprint practices in here. I think it's mostly good, but as the jam approached its deadline standards declined!
 
+You can find our test levels we used while building the game. Gives a little glimpse of how the game looked in-progress as we built the pieces.
